@@ -1,4 +1,4 @@
-package nikhil.bhople.skillshowcase.ui.theme
+package nikhil.bhople.skillshowcase.presentation.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
